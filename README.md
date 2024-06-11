@@ -23,7 +23,7 @@ To run this project, you need a basic understanding of web development and an AP
 
 --
 **Live Demo**
-Check out the live demo of the app here[#https://monikaips.github.io/weather-app/].
+Check out the live demo of the app #here[https://monikaips.github.io/weather-app/].
 
 **Installation**
 
