@@ -22,6 +22,9 @@ Responsive design suitable for desktop and mobile devices.
 To run this project, you need a basic understanding of web development and an API key from OpenWeatherMap.
 
 --
+**Live Demo**
+Check out the live demo of the app here[#https://monikaips.github.io/weather-app/].
+
 **Installation**
 
 **Clone the repository:**
